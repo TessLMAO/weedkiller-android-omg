@@ -1,0 +1,31 @@
+{
+	"storyName": "Zardy's Gauntlet",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Weedkiller",
+			"zardydark",
+			[
+				106,
+				43,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Zardy"
+}
