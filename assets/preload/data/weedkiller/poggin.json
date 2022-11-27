@@ -1,0 +1,41 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "You again... I'm getting quite sick of this game of cat and mouse.",
+			"boxState": "normal",
+			"portrait": "zardybutdark",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "That's quite the pitiful fire starter you've wandered in here with. It's flame surely won't last long.",
+			"boxState": "normal",
+			"portrait": "zardybutdark",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "And when it's life fades, so will yours.",
+			"boxState": "normal",
+			"portrait": "zardybutdark",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Let the chilling darkness devour you...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zardybutdark"
+		},
+		{
+			"expression": "talk",
+			"text": "Darn brats...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zardybutdark"
+		}
+	]
+}
