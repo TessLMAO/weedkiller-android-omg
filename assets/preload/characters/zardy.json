@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-225,
+				88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				233,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-226,
+				87
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "Sing Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				6,
+				-19
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "Sing Down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-39,
+				-30
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "Sing Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				233,
+				-7
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "Sing Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zardy",
+	"position": [
+		60,
+		160
+	],
+	"healthicon": "zardy",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		37,
+		59
+	],
+	"camera_position": [
+		10,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
